@@ -1,0 +1,7 @@
+*.xlsx
+*.csv
+venv
+*.pdf
+*.jpg
+*.docx
+data.pkl
